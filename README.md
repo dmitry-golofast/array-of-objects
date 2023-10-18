@@ -1,4 +1,4 @@
-# my-project
+# testing task
 
 ## Project setup
 ```
@@ -10,15 +10,8 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Testing
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run test
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
